@@ -1,0 +1,32 @@
+[
+    {
+        "nom": "Émile Zola",
+        "date_naissance": "1840-04-02",
+        "date_deces": "1902-09-29",
+        "biographie": "Émile Zola était un écrivain et journaliste français, figure majeure du mouvement naturaliste. Né en 1840 à Paris, il commence sa carrière comme critique littéraire avant de se consacrer à l’écriture. Il est surtout connu pour sa série de romans 'Les Rougon-Macquart', une fresque en 20 volumes décrivant l’évolution d’une famille sous le Second Empire. Son œuvre se caractérise par une approche scientifique de la société, une étude minutieuse des déterminismes sociaux et biologiques. Zola a joué un rôle crucial dans l'affaire Dreyfus, un scandale politique qui a divisé la France. Son célèbre article 'J’accuse !' publié en 1898 dans le journal L’Aurore a été un acte d’engagement remarquable qui lui a valu l’exil temporaire en Angleterre. Il meurt en 1902 dans des circonstances suspectes, possiblement à cause d'un assassinat politique, bien que la version officielle parle d'une intoxication au monoxyde de carbone. Son travail et ses prises de position ont profondément marqué la littérature et l’histoire sociale française."
+    },
+    {
+        "nom": "Coluche",
+        "date_naissance": "1944-10-28",
+        "date_deces": "1986-06-19",
+        "biographie": "Michel Colucci, dit Coluche, était un humoriste, acteur et homme engagé français. Né en 1944 à Paris, il commence par travailler dans divers petits boulots avant de se lancer dans la scène comique. Dans les années 70, il devient une figure incontournable de l’humour français avec son style irrévérencieux et ses critiques acerbes de la société. Connu pour ses sketches abordant la politique, les inégalités et l'hypocrisie, il était aimé pour son franc-parler. En 1980, il annonce sa candidature à l’élection présidentielle, provoquant un tollé médiatique et politique, avant de se retirer sous la pression. En 1985, il crée les Restos du Cœur, une initiative destinée à venir en aide aux plus démunis en leur offrant des repas gratuits. Ce projet, devenu une institution en France, continue d'exister aujourd’hui. Il meurt tragiquement en 1986 dans un accident de moto, laissant derrière lui un héritage humanitaire et culturel immense, et restant dans la mémoire collective comme une figure de l’engagement social."
+    },
+    {
+        "nom": "Michel Audiard",
+        "date_naissance": "1920-05-15",
+        "date_deces": "1985-07-28",
+        "biographie": "Michel Audiard était un scénariste, réalisateur et dialoguiste français connu pour son style unique et ses répliques cinglantes. Né en 1920 à Paris, il se passionne pour l’écriture dès son plus jeune âge. Dans les années 50, il commence sa carrière dans le cinéma en signant les dialogues de nombreux films devenus cultes. Son style caractéristique, mêlant argot et humour acerbe, a marqué des générations. Parmi ses œuvres les plus célèbres, on compte 'Les Tontons flingueurs', 'Un singe en hiver' ou encore 'Le cave se rebiffe'. Il a collaboré avec de nombreux réalisateurs et acteurs emblématiques du cinéma français, comme Jean Gabin et Lino Ventura. Son travail met en avant une vision critique et souvent cynique de la société. Il meurt en 1985, laissant un héritage indélébile dans le monde du cinéma français. Ses dialogues, encore aujourd’hui, font partie de la culture populaire française et sont souvent cités en référence."
+    },
+    {
+        "nom": "Voltaire",
+        "date_naissance": "1694-11-21",
+        "date_deces": "1778-05-30",
+        "biographie": "Voltaire, de son vrai nom François-Marie Arouet, était un écrivain et philosophe du siècle des Lumières. Né en 1694 à Paris, il était un critique acerbe de l’Église et un fervent défenseur de la liberté d’expression. Ses œuvres majeures incluent 'Candide', où il se moque de l’optimisme naïf, et 'Lettres philosophiques', qui introduit en France des idées anglaises progressistes. Voltaire était aussi un pamphlétaire redouté, souvent contraint à l’exil pour ses prises de position audacieuses. Son combat contre l’intolérance religieuse et l’arbitraire du pouvoir a marqué son époque et inspiré les révolutions démocratiques à venir. Son esprit vif et satirique a fait de lui l’un des plus grands écrivains français. Il meurt en 1778, acclamé mais toujours redouté par les autorités de son temps."
+    },
+    {
+        "nom": "Haruki Murakami",
+        "date_naissance": "1949-01-12",
+        "date_deces": null,
+        "biographie": "Haruki Murakami est un écrivain japonais contemporain, célèbre pour ses romans mêlant réalisme et fantastique. Né en 1949 à Kyoto, il est influencé par la littérature occidentale et la culture pop. Ses premiers romans, comme 'Écoute le chant du vent', le propulsent rapidement sur la scène littéraire japonaise. Il acquiert une reconnaissance internationale avec 'La Course au mouton sauvage' et surtout 'Kafka sur le rivage', œuvres dans lesquelles il mélange des éléments surnaturels et une profonde introspection des personnages. Son style unique, souvent qualifié de surréaliste et poétique, évoque la solitude, les rêves et les mystères de l’existence. Ses romans traduits dans le monde entier lui valent un immense succès, et son nom revient régulièrement parmi les candidats au prix Nobel de littérature. Outre son travail d’écrivain, il est aussi un passionné de musique et de course à pied, des éléments qui influencent son œuvre. Son univers singulier continue de captiver des millions de lecteurs à travers le monde."
+    }
+]
