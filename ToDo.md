@@ -3,7 +3,7 @@
 - Voir les videos sur vuejs (google drive), partie 1
 - Exercice :
   - Une fois la video finie :
-    -Calcul IMC
+    - Calcul IMC
     - Todolist : (https://grafikart.fr/tutoriels/todolist-vuejs-2227#autoplay)
     
 - S'assurer d'avoir PHP8.2 (minimum), mySQL server
